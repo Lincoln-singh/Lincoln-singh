@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Manpreet Singh
+- 👋 Hi, I’m @ Manpreet Singh
 - 👀 I’m interested in ...Data Analyst
-- 🌱 I’m currently learning ...Pythone
-- 💞️ I’m looking to collaborate on ...Pythone projects
+- 🌱 I’m currently learning ...Python
+- 💞️ I’m looking to collaborate on ...Python projects
 - 📫 How to reach me ...tomanpreet@hotmail.com
 
 <!---
